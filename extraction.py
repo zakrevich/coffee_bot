@@ -8,7 +8,7 @@ import datetime
 SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1JBDtDVlga_r9w0CsYsvTuyq_FJXnjfzgSNsWu1dMLZQ'
+SAMPLE_SPREADSHEET_ID = 'link to your file'
 SAMPLE_RANGE_NAME = 'Sheet1!A1:B'
 
 def get_name():
